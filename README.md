@@ -1,2 +1,9 @@
 # evdoshchenko.com
-Evdoshchenko Danil CV.
+
+Dear listner,
+
+I greatly appreciated the opportunity to meet with you and your team.
+
+Yours sincerely,
+
+Danil Evdoshchenko.
