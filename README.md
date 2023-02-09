@@ -1,4 +1,4 @@
-# Heylynx messenger
+# Evdoshchenko.com
 
 * version 0.0.2
 * functionalities: Routing
