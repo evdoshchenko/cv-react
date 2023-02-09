@@ -1,0 +1,30 @@
+.link-button {
+  display: flex;
+  padding: 6px 12px;
+  border-radius: 6px;
+  border-color: var(--primary-dark);
+  color: var(--primary);
+  transition: all .3s;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.3em;
+  text-decoration:none;
+
+  &:hover {
+    background-color: var(--primary);
+    color: var(--background-text);
+    .icons {
+      background-color: var(--primary-text);
+      color: var(--background-text);
+    }
+  }
+
+  &_git {
+    font-size: 1em;
+    color: var(--text-light);
+  }
+}
+
+@media (max-width:601px) {
+  .copywrite{display:none}
+}

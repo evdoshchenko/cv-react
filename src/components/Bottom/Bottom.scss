@@ -1,0 +1,27 @@
+.content-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 40px;
+  margin: 0 0 20px 0;
+  box-sizing: border-box;
+  justify-content: space-between;
+  color: var(--primary-dark);
+}
+
+.social{
+  &__line {
+    display: flex;
+  }
+
+  &__icon {
+    text-decoration: none;
+    font-size: 2em;
+    color: var(--primary-dark);
+  
+    &:hover {
+      color: var(--secondary);
+    }
+  }
+}

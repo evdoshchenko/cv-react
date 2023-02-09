@@ -1,0 +1,55 @@
+body {
+  font-family: 'Source Code Pro', -apple-system, BlinkMacSystemFont, 
+    'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans',
+    'Droid Sans', 'Helvetica Neue', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  box-sizing:border-box;
+  display: flex;
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  background-color: var(--background);
+  font-size: 1em;
+  line-height: 1.5;
+  color: var(--background-text);
+}
+
+#root {
+  display: flex;
+  box-sizing:border-box;
+  height: 100%;
+  width: 100%;
+}
+
+.app {
+  display: flex;
+  box-sizing:border-box;
+  height: 100%;
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+  background-position: center;
+  background-size: cover;
+}
+
+p {
+  margin: 0;
+}
+
+a:link {
+  color: var(--primary);
+}
+
+a:visited {
+  color: var(--primary);
+}
+
+a:hover {
+  color: var(--secondary);
+}
+
+a:active {
+  color: var(--tertiary);
+}

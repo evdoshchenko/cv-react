@@ -1,0 +1,191 @@
+[
+  {
+    "icon": "ri-stack-fill",
+    "title": "Technology stack",
+    "type": "techStack",
+    "data": [
+      {
+        "title": "LANGUAGES",
+        "text": "JavaScript, TypeScript, HTML, CSS, SASS, SQL"
+      },
+      {
+        "title": "LIBRARY",
+        "text": "React, Redux, React Router"
+      },
+      {
+        "title": "FRAMEWORKS",
+        "text": "Express, Jest, mocha"
+      },
+      {
+        "title": "LINTERS",
+        "text": "Stylelint, ESLint"
+      },
+      {
+        "title": "BUNDLERS",
+        "text": "Vite, Webpack, Parcel"
+      },
+      {
+        "title": "DATABASES",
+        "text": "PostgreSQL, MongoDB"
+      },
+      {
+        "title": "TOOLS",
+        "text": "Git, GitHub, Docker, Lerna"
+      },
+      {
+        "title": "ENVIRONMENTS",
+        "text": "Node.JS, SSR"
+      },
+      {
+        "title": "EDITORS",
+        "text": "VS Code, WebStorm, XCode"
+      },
+      {
+        "title": "PLATFORMS",
+        "text": "MacOS, Linux, Windows, iOS, Android"
+      },
+      {
+        "title": "VIDEO",
+        "text": "After Effects, Premiere"
+      },
+      {
+        "title": "DESIGN",
+        "text": "Figma, Photoshop, Illustrator"
+      },
+      {
+        "title": "MANAGEMENT",
+        "text": "JIRA, Slack, Discord, Trello, Notion"
+      }
+    ]
+  },
+  {
+    "icon": "ri-code-s-slash-fill",
+    "title": "Work Experience",
+    "type": "experience",
+    "data": [
+      {
+        "title": "Front-end Developer",
+        "workLinkText": "Digital Agency One-Touch",
+        "workLink": "https://one-touch.ru/",
+        "city": "Moscow, RF",
+        "dateStart": "09.2021",
+        "dateEnd": "Current",
+        "text": [
+          "• Maintaining and improving customer and partner facing web sites",
+          "• Developing new components and improve existing components to provide enhanced user experience",
+          "• Ability to rapidly convert visual mockups into functional, visually elegant applications",
+          "• Producing clean, efficient, maintainable and testable code based on specification"
+        ]  
+      },
+      {
+        "title": "Developer, co-founder",
+        "workLinkText": "Applications Danilynx",
+        "workLink": "https://danilynx.app/",
+        "city": "Batumi, GE",
+        "dateStart": "04.2019",
+        "dateEnd": "Current",
+        "text": [
+          "• Creating, maintaining and improving customer and partner facing web applications",
+          "• Working with business stakeholders to move new applications and features from concept to implementation",
+          "• Working with developers and QA to build high quality, compatible and scalable solutions",
+          "• Developing UI components using modern languages and frameworks"
+        ]
+      },
+      {
+        "title": "Founder",
+        "workLinkText": "Design Group GnBob",
+        "workLink": "https://gnbob.com/",
+        "city": "Batumi, GE",
+        "dateStart": "10.2010",
+        "dateEnd": "Current",
+        "text": [
+          "• Building and leading a team of creative professionals with backgrounds in copywriting, motion graphics, social and web design, video production",
+          "• Leading the creative process from idea to implementation, translating marketing objectives into clear creative strategies",
+          "• Producing innovative solutions for branding, style guides and other deliverables for use in projects, including print, digital, social media, web"
+        ]
+      },
+      {
+        "title": "Senior Designer",
+        "workLinkText": "Professional Football Club CSKA",
+        "workLink": "https://pfc-cska.com/",
+        "city": "Moscow, RF",
+        "dateStart": "01.2018",
+        "dateEnd": "06.2021",
+        "text": [
+          "• Developing the graphic elements and content of communications materials",
+          "• Preparing sketches, layouts and graphic elements",
+          "• Establishing guidelines for illustrators or photographers",
+          "• Co-ordinate all aspects of production for print, audio–visual or electronic materials",
+          "• Work in a multidisciplinary environment",
+          "• Supervising other designers"
+        ]
+      },
+      {
+        "title": "Head of Designers",
+        "workLinkText": "Football Club Krasnodar",
+        "workLink": "https://fckrasnodar.ru/",
+        "city": "Krasnodar, RF",
+        "dateStart": "11.2015",
+        "dateEnd": "01.2018",
+        "text": [
+          "• Designing wide variety of materials for external marketing use, including brochures, guides, white papers, presentations, email campaigns, website and social media banners",
+          "• Assist internal departments with graphic design needs"
+        ]
+      },
+      {
+        "title": "Web Developer, Designer",
+        "workLinkText": "TD Arsenaltrading",
+        "workLink": "https://tdarsenal.ru/",
+        "city": "Krasnodar, RF",
+        "dateStart": "09.2014",
+        "dateEnd": "11.2015",
+        "text": [
+          "• Maintaining and improving company’s web site",
+          "• Rebranding of company, develop logo and guidelines",
+          "• Developing storyboards for electronic productions such as multimedia, interactive and digital products and television advertising and productions"
+        ]
+      },
+      {
+        "title": "Software Developer, Designer",
+        "workLinkText": "Agency “SolomonPRO”",
+        "city": "Perm, RF",
+        "dateStart": "09.2012",
+        "dateEnd": "07.2014",
+        "text": [
+          "• Creating and maintaining web sites",
+          "• Developing android applications",
+          "• Designing of collateral material, environmental graphics, books and magazines, corporate identity and branding, from concept to completion"
+        ]
+      }
+    ]
+  },
+  {
+    "icon": "ri-macbook-line",
+    "title": "Education",
+    "type": "experience",
+    "data": [
+      {
+        "title": "Baltic State Technical University",
+        "workLinkText": "VOENMEH",
+        "workLink": "https://www.voenmeh.ru",
+        "city": "Saint Petersburg, RF",
+        "dateStart": "2005",
+        "dateEnd": "2011",
+        "text": [
+          "• Software Engineer, MS in Information Systems and Technology"
+        ]
+      },
+      {
+        "title": "Additional",
+        "dateStart": "2019",
+        "dateEnd": "Current",
+        "text": [
+          "• Middle Front-End Developer, Yandex",
+          "• JavaScript+React, Petrichenko",
+          "• QA, Portnov Computer School"
+        ]
+      }
+    ]
+  }
+]
+

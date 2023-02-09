@@ -1,0 +1,32 @@
+.icons.md-16 { font-size: 1em; }
+.icons.md-18 { font-size: 1.3em; }
+.icons.md-24 { font-size: 1.6em; }
+.icons.md-28 { font-size: 2em; }
+.icons.md-32 { font-size: 2.3em; }
+.icons.md-36 { font-size: 2.6em; }
+.icons.md-48 { font-size: 3em; }
+.icons {
+  color: #9B00DC;
+  vertical-align:middle;
+  margin-right: 5px;
+  font-weight: normal;
+  font-style: normal;
+  font-size: 24px;
+  display: inline-block;
+  line-height: 1.2;
+  text-transform: none;
+  letter-spacing: normal;
+  word-wrap: normal;
+  white-space: nowrap;
+  direction: ltr;
+
+  /* Support for all WebKit browsers. */
+  -webkit-font-smoothing: antialiased;
+  /* Support for Safari and Chrome. */
+  text-rendering: optimizeLegibility;
+  /* Support for Firefox. */
+  -moz-osx-font-smoothing: grayscale;
+  /* Support for IE. */
+  font-feature-settings: 'liga';
+}
+
