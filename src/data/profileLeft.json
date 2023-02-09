@@ -1,7 +1,7 @@
 [
   {
     "main": true,
-    "image": "/images/avatar.jpg",
+    "image": "/assets/images/avatar.jpg",
     "title": "Danil Evdoshchenko",
     "type": "summary",
     "data": [
@@ -115,12 +115,12 @@
     "data": [
       {
         "icon": "ri-file-pdf-fill",
-        "link": "/pdfs/Evdoshchenko-Front-End.pdf",
+        "link": "/assets/pdfs/Evdoshchenko-Front-End.pdf",
         "linkText": "Resume - Engish"
       },
       {
         "icon": "ri-file-pdf-fill",
-        "link": "/pdfs/Evdoshchenko-Front-End_ru.pdf",
+        "link": "/assets/pdfs/Evdoshchenko-Front-End_ru.pdf",
         "linkText": "Resume - Russian"
       }
     ]
