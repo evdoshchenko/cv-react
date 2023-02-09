@@ -1,9 +1,30 @@
-# evdoshchenko.com
+# Heylynx messenger
 
-Dear listner,
+* version 0.0.2
+* functionalities: Routing
 
-I greatly appreciated the opportunity to meet with you and your team.
+### The application has the following features:
+* Creating CV pages
 
-Yours sincerely,
+### Technologies
+* TypeScript
+* React
+* React Router
+* SASS
+* Vite
 
-Danil Evdoshchenko.
+# Testable Prototypes: 
+
+* [evdoshchenko.com](http://evdoshchenko.com/)
+
+# Commands
+
+### Devepoling
+```
+npm run dev
+```
+
+### Building
+```
+npm run build
+```

@@ -1,0 +1,128 @@
+[
+  {
+    "main": true,
+    "image": "/images/avatar.jpg",
+    "title": "Danil Evdoshchenko",
+    "type": "summary",
+    "data": [
+      {
+        "icon": "ri-braces-line",
+        "text": "Front-end Developer"
+      },
+      {
+        "icon": "ri-map-pin-user-line",
+        "text": "Batumi, GE"
+      },
+      {
+        "icon": "ri-at-line",
+        "text": "E-mail:",
+        "link": "mailto:ev8ko@icloud.com",
+        "linkText": "ev8ko@icloud.com"
+      },
+      {
+        "icon": "ri-telegram-line",
+        "text": "Telegram:",
+        "link": "https://t.me/ev8ko",
+        "linkText": "ev8ko"
+      }
+    ]
+  },
+  {
+    "icon": "ri-profile-line",
+    "title": "Profile",
+    "type": "profile",
+    "data": {
+      "text": "3+ years of Modern web development experience. Expert knowledge working with HTML5, CSS3, JS and TS. Experience with React, Redux, Express. Familiar with NPM, Docker, Node.JS, SQL. Understanding of SSR and Automation testing. Using version control like Git. Experienced with the Agile/Scrum development model. Technical and documentational skills enable the development of clarify and structable code. 12+ years of experience in computer Design. Great attention to detail and be highly organized. Effective as both an independent and team worker. Ability to handle multiple tasks under tight deadlines. Strong remote working communication skills"
+    }
+  },
+  {
+    "icon": "ri-reactjs-line",
+    "title": "Hard Skills",
+    "type": "percentLines",
+    "data": [
+      {
+        "text": "JavaScript",
+        "percent": 95
+      },
+      {
+        "text": "TypeScript",
+        "percent": 85
+      },
+      {
+        "text": "Node.JS",
+        "percent": 55
+      },
+      {
+        "text": "React",
+        "percent": 75
+      },
+      {
+        "text": "HTML",
+        "percent": 100
+      },
+      {
+        "text": "CSS",
+        "percent": 100
+      },
+      {
+        "text": "SASS",
+        "percent": 80
+      },
+      {
+        "text": "SQL",
+        "percent": 65
+      }
+    ]
+  },
+  {
+    "icon": "ri-global-line",
+    "title": "Languages",
+    "type": "percentLines",
+    "data": [
+      {
+        "text": "Russian - Fluent",
+        "percent": 90
+      },
+      {
+        "text": "English - Upper Intermediate",
+        "percent": 65
+      }
+    ]
+  },
+  {
+    "icon": "ri-gamepad-line",
+    "title": "Soft skills",
+    "type": "softSkills",
+    "data": {
+      "emojies": [
+        "✊🏾",
+        "🧬 🏁",
+        "♈️ 🟡 🟣 🎬 🦞",
+        "🥑 🍭 👽 🐉 🐶 🙀 🦦",
+        "🚲 🛴 🥳 🕍 💻 🤑 🧬 📲",
+        "👨‍💻 📵 🛤 👾 🍁 🌮 🛸",
+        "🌌 🧀 🐇 🖐 🧹",
+        "🔩 😶 ☘️ ♟️",
+        "🪲 🔜"
+      ],
+      "text": "• Passion to build a startup • Gamer, Bloodborne platinum trophy winner • Excited to learn and develop blockchain technologies. Eager to build a platforms for the next generation of cryptocurrency"
+    }
+  },
+  {
+    "icon": "ri-links-fill",
+    "title": "Download Links",
+    "type": "summary",
+    "data": [
+      {
+        "icon": "ri-file-pdf-fill",
+        "link": "/pdfs/Evdoshchenko-Front-End.pdf",
+        "linkText": "Resume - Engish"
+      },
+      {
+        "icon": "ri-file-pdf-fill",
+        "link": "/pdfs/Evdoshchenko-Front-End_ru.pdf",
+        "linkText": "Resume - Russian"
+      }
+    ]
+  }
+]
