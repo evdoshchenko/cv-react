@@ -26,12 +26,13 @@ export const StartPage = () => {
           <p className='tech-stack__item'>TypeScript</p>
           <p className='tech-stack__item'>React</p>
           <p className='tech-stack__item'>Redux</p>
-          <p className='tech-stack__item'>Git</p>
-          <p className='tech-stack__item'>Docker</p>
-          <p className='tech-stack__item'>Vite</p>
           <p className='tech-stack__item'>HTML5</p>
           <p className='tech-stack__item'>SASS</p>
           <p className='tech-stack__item'>Node.JS</p>
+          <p className='tech-stack__item'>Docker</p>
+          <p className='tech-stack__item'>Vite</p>
+          <p className='tech-stack__item'>Git</p>
+          <p className='tech-stack__item'>Figma</p>
         </div>
 
         <div className='title-on-black'>Open source projects:</div>

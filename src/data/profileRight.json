@@ -50,7 +50,7 @@
       },
       {
         "title": "DESIGN",
-        "text": "Figma, Photoshop, Illustrator"
+        "text": "Figma, Photoshop, Illustrator, InDesign"
       },
       {
         "title": "MANAGEMENT",
@@ -64,6 +64,33 @@
     "type": "experience",
     "data": [
       {
+        "title": "Developer, co-founder",
+        "workLinkText": "Applications Danilynx",
+        "workLink": "https://danilynx.app/",
+        "city": "Toronto, CA",
+        "dateStart": "04.2019",
+        "dateEnd": "Current",
+        "text": [
+          "• Creating, maintaining and improving customer and partner facing web applications",
+          "• Working with business stakeholders to move new applications and features from concept to implementation",
+          "• Working with developers and QA to build high quality, compatible and scalable solutions",
+          "• Developing UI components using modern languages and frameworks"
+        ]
+      },
+      {
+        "title": "Designer, founder",
+        "workLinkText": "Design Group GnBob",
+        "workLink": "https://gnbob.com/",
+        "city": "Toronto, CA",
+        "dateStart": "10.2010",
+        "dateEnd": "Current",
+        "text": [
+          "• Building and leading a team of creative professionals with backgrounds in copywriting, motion graphics, social and web design, video production",
+          "• Leading the creative process from idea to implementation, translating marketing objectives into clear creative strategies",
+          "• Producing innovative solutions for branding, style guides and other deliverables for use in projects, including print, digital, social media, web"
+        ]
+      },
+      {
         "title": "Front-end Developer",
         "workLinkText": "Digital Agency One-Touch",
         "workLink": "https://one-touch.ru/",
@@ -76,33 +103,6 @@
           "• Ability to rapidly convert visual mockups into functional, visually elegant applications",
           "• Producing clean, efficient, maintainable and testable code based on specification"
         ]  
-      },
-      {
-        "title": "Developer, co-founder",
-        "workLinkText": "Applications Danilynx",
-        "workLink": "https://danilynx.app/",
-        "city": "Batumi, GE",
-        "dateStart": "04.2019",
-        "dateEnd": "Current",
-        "text": [
-          "• Creating, maintaining and improving customer and partner facing web applications",
-          "• Working with business stakeholders to move new applications and features from concept to implementation",
-          "• Working with developers and QA to build high quality, compatible and scalable solutions",
-          "• Developing UI components using modern languages and frameworks"
-        ]
-      },
-      {
-        "title": "Founder",
-        "workLinkText": "Design Group GnBob",
-        "workLink": "https://gnbob.com/",
-        "city": "Batumi, GE",
-        "dateStart": "10.2010",
-        "dateEnd": "Current",
-        "text": [
-          "• Building and leading a team of creative professionals with backgrounds in copywriting, motion graphics, social and web design, video production",
-          "• Leading the creative process from idea to implementation, translating marketing objectives into clear creative strategies",
-          "• Producing innovative solutions for branding, style guides and other deliverables for use in projects, including print, digital, social media, web"
-        ]
       },
       {
         "title": "Senior Designer",
