@@ -50,12 +50,12 @@ export const StartPage = () => {
               Messenger
             </Button>
           </div>
-          {/* <div className='project'>
+          <div className='project'>
             <Button to={GIT_CV_LINK} modifier='git' blank={true}>
               <i className={`icons md-24 ri-github-fill`} />
               CV
             </Button>
-          </div> */}
+          </div>
         </div>
       </div>
       <Bottom />
