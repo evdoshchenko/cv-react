@@ -94,7 +94,7 @@ export const Block: FC<TBlock> = ({ main, image, title, icon, type, data }) => {
                   {title}
                   {(workLink) && <>
                     {`${' /\ '}`}
-                    <a href={workLink} target="_blank"> {workLinkText} </a>
+                    <a href={workLink} target="_blank"> {workLinkText}</a>
                   </>}
                   {(city) && <>
                     {`${' - '}`}
