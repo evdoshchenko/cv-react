@@ -1,7 +1,7 @@
 import { Block } from '@/components/Block'
-import { 
+import {
   Top,
-  Bottom 
+  Bottom
 } from '@/components'
 
 import profileRightData from '@/data/profileRight.json'
@@ -12,9 +12,8 @@ import './profilePage.scss'
 
 export const ProfilePage = () => {
   return (
-    <div className='profile-page'>
-      <Top/>
-
+    <div className='page'>
+      <Top />
       <div className="content">
         <div className="columns">
           <div className="column-left">
@@ -45,9 +44,9 @@ export const ProfilePage = () => {
               )
             })}
           </div>
-        </div>  
+        </div>
       </div>
-      <Bottom/>
+      <Bottom />
     </div>
   );
 }

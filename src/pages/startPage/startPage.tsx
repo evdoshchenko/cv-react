@@ -1,9 +1,9 @@
-import { 
+import {
   GIT_MESSENGER_LINK,
   GIT_GAME_LINK,
   GIT_CV_LINK,
 } from '@/pages/routes';
-import { 
+import {
   Top,
   Bottom,
   Button
@@ -14,8 +14,8 @@ import './startPage.scss'
 
 export const StartPage = () => {
   return (
-    <div className='start-page'>
-      <Top/>
+    <div className='page'>
+      <Top />
       <div className='content'>
         <div className='title-on-black_emoji'>👋</div>
         <div className='title-on-black_main'>Hey, I'm Danil!</div>
@@ -26,7 +26,7 @@ export const StartPage = () => {
           <p className='tech-stack__item'>TypeScript</p>
           <p className='tech-stack__item'>React</p>
           <p className='tech-stack__item'>Redux</p>
-          <p className='tech-stack__item'>HTML5</p>
+          <p className='tech-stack__item'>HTML</p>
           <p className='tech-stack__item'>SASS</p>
           <p className='tech-stack__item'>Node.JS</p>
           <p className='tech-stack__item'>Docker</p>
@@ -40,25 +40,25 @@ export const StartPage = () => {
         <div className='projects'>
           <div className='project'>
             <Button to={GIT_GAME_LINK} modifier='git' blank={true}>
-              <i className={`icons md-24 ri-github-fill`}/>
+              <i className={`icons md-24 ri-github-fill`} />
               Game
             </Button>
           </div>
           <div className='project'>
             <Button to={GIT_MESSENGER_LINK} modifier='git' blank={true}>
-              <i className={`icons md-24 ri-github-fill`}/>
+              <i className={`icons md-24 ri-github-fill`} />
               Messenger
             </Button>
           </div>
-          <div className='project'>
+          {/* <div className='project'>
             <Button to={GIT_CV_LINK} modifier='git' blank={true}>
-              <i className={`icons md-24 ri-github-fill`}/>
+              <i className={`icons md-24 ri-github-fill`} />
               CV
             </Button>
-          </div>
+          </div> */}
         </div>
       </div>
-      <Bottom/>
+      <Bottom />
     </div>
   );
 }

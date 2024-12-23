@@ -1,39 +1,31 @@
 [
   {
     "main": true,
-    "image": "/assets/images/avatar.jpg",
+    "image": "/dist/assets/images/avatar.jpg",
     "title": "Danil Evdoshchenko",
     "type": "summary",
     "data": [
       {
         "icon": "ri-braces-line",
-        "text": "Developer / Designer"
+        "text": "Web Developer"
       },
       {
         "icon": "ri-map-pin-user-line",
-        "text": "Toronto, CA"
+        "text": "Toronto, ON"
       },
       {
         "icon": "ri-at-line",
         "text": "E-mail:",
-        "link": "mailto:ev8ko@icloud.com",
-        "linkText": "ev8ko@icloud.com"
+        "link": "mailto:ev8ko@protonmail.com",
+        "linkText": "ev8ko"
       },
       {
-        "icon": "ri-telegram-line",
-        "text": "Telegram:",
-        "link": "https://t.me/ev8ko",
+        "icon": "ri-instagram-line",
+        "text": "Instagram:",
+        "link": "https://www.instagram.com/ev8ko/",
         "linkText": "ev8ko"
       }
     ]
-  },
-  {
-    "icon": "ri-profile-line",
-    "title": "Profile",
-    "type": "profile",
-    "data": {
-      "text": "3+ years of Modern web development experience. Expert knowledge working with HTML5, CSS3, JS and TS. Experience with React, Redux, Express. Familiar with NPM, Docker, Node.JS, SQL. Understanding of SSR and Automation testing. Using version control like Git. Experienced with the Agile/Scrum development model. Technical and documentational skills enable the development of clarify and structable code. 12+ years of experience in computer Design. Great attention to detail and be highly organized. Effective as both an independent and team worker. Ability to handle multiple tasks under tight deadlines. Strong remote working communication skills"
-    }
   },
   {
     "icon": "ri-reactjs-line",
@@ -42,15 +34,11 @@
     "data": [
       {
         "text": "JavaScript",
-        "percent": 95
+        "percent": 90
       },
       {
         "text": "TypeScript",
-        "percent": 85
-      },
-      {
-        "text": "Node.JS",
-        "percent": 55
+        "percent": 75
       },
       {
         "text": "React",
@@ -65,27 +53,8 @@
         "percent": 100
       },
       {
-        "text": "SASS",
-        "percent": 80
-      },
-      {
         "text": "SQL",
-        "percent": 65
-      }
-    ]
-  },
-  {
-    "icon": "ri-global-line",
-    "title": "Languages",
-    "type": "percentLines",
-    "data": [
-      {
-        "text": "Russian - Fluent",
-        "percent": 90
-      },
-      {
-        "text": "English - Upper Intermediate",
-        "percent": 65
+        "percent": 60
       }
     ]
   },
@@ -95,33 +64,39 @@
     "type": "softSkills",
     "data": {
       "emojies": [
-        "✊🏾",
+        "🐆",
         "🧬 🏁",
         "♈️ 🟡 🟣 🎬 🦞",
-        "🥑 🍭 👽 🐉 🐶 🙀 🦦",
-        "🚲 🛴 🥳 🕍 💻 🤑 ⚽ 📲",
+        "🥑 🍭 👽 🦖 🐶 🙀 🦦",
+        "🚲 🛴 🥳 🕍 💻 🤑 🧬 📲",
         "👨‍💻 📵 🛤 👾 🍁 🌮 🛸",
-        "🌌 🧀 🐇 🖐 🧹",
-        "🔩 😶 ☘️ ♟️",
-        "🪲 🔜"
+        "🌌 🧀 🐇 🖐 🚧 🧹",
+        "🤖 🦿 🧲 😶 ☘️ ♟️",
+        "🪲 🩰 🍿 🦝",
+        "🪜 🐝 🔜"
       ],
-      "text": "• Passion to build a startup • Football fan • Gamer, Bloodborne platinum trophy winner • Excited to learn and develop blockchain technologies. Eager to build a platforms for the next generation of cryptocurrency"
+      "text": "• Passion to build a startup • Excited to learn and develop blockchain technologies. Eager to build a platforms for the next generation of cryptocurrency"
     }
   },
   {
-    "icon": "ri-links-fill",
-    "title": "Download Links",
-    "type": "summary",
+    "icon": "ri-book-line",
+    "title": "Credentials",
+    "type": "experience",
     "data": [
       {
-        "icon": "ri-file-pdf-fill",
-        "link": "/assets/pdfs/Evdoshchenko-Front-End.pdf",
-        "linkText": "Resume - Engish"
+        "title": "Backend for Frontend Developers",
+        "dateStart": "2024",
+        "dateEnd": "Yandex Practicum"
       },
       {
-        "icon": "ri-file-pdf-fill",
-        "link": "/assets/pdfs/Evdoshchenko-Front-End_ru.pdf",
-        "linkText": "Resume - Russian"
+        "title": "Mid-Level Web Developer",
+        "dateStart": "2023",
+        "dateEnd": "Yandex Practicum"
+      },
+      {
+        "title": "Web Developer",
+        "dateStart": "2020",
+        "dateEnd": "Udemy, Petrichenko"
       }
     ]
   }

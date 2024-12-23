@@ -1,13 +1,35 @@
-.icons.md-16 { font-size: 1em; }
-.icons.md-18 { font-size: 1.3em; }
-.icons.md-24 { font-size: 1.6em; }
-.icons.md-28 { font-size: 2em; }
-.icons.md-32 { font-size: 2.3em; }
-.icons.md-36 { font-size: 2.6em; }
-.icons.md-48 { font-size: 3em; }
+.icons.md-16 {
+  font-size: 1em;
+}
+
+.icons.md-18 {
+  font-size: 1.3em;
+}
+
+.icons.md-24 {
+  font-size: 1.6em;
+}
+
+.icons.md-28 {
+  font-size: 2em;
+}
+
+.icons.md-32 {
+  font-size: 2.3em;
+}
+
+.icons.md-36 {
+  font-size: 2.6em;
+}
+
+.icons.md-48 {
+  font-size: 3em;
+}
+
 .icons {
-  color: #9B00DC;
-  vertical-align:middle;
+  // color: #9B00DC;
+  color: var(--primary-dark);
+  vertical-align: middle;
   margin-right: 5px;
   font-weight: normal;
   font-style: normal;
@@ -29,4 +51,3 @@
   /* Support for IE. */
   font-feature-settings: 'liga';
 }
-

@@ -1,6 +1,6 @@
-# Evdoshchenko.com
+# cv
 
-* version 0.0.3
+* version 0.0.4
 * functionalities: Routing
 
 ### The application has the following features:
@@ -12,10 +12,6 @@
 * React Router
 * SASS
 * Vite
-
-# Testable Prototypes: 
-
-* [evdoshchenko.com](http://evdoshchenko.com/)
 
 # Commands
 

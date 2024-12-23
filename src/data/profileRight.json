@@ -1,60 +1,60 @@
 [
   {
     "icon": "ri-stack-fill",
-    "title": "Technology stack",
+    "title": "Tech stack",
     "type": "techStack",
     "data": [
       {
         "title": "LANGUAGES",
-        "text": "JavaScript, TypeScript, HTML, CSS, SASS, SQL"
+        "text": "HTML, CSS, JavaScript, TypeScript, SQL, XML"
       },
       {
-        "title": "LIBRARY",
-        "text": "React, Redux, React Router"
+        "title": "TECHNOLOGIES",
+        "text": "Git, GitHub, Docker"
       },
       {
-        "title": "FRAMEWORKS",
-        "text": "Express, Jest, mocha"
-      },
-      {
-        "title": "LINTERS",
-        "text": "Stylelint, ESLint"
-      },
-      {
-        "title": "BUNDLERS",
-        "text": "Vite, Webpack, Parcel"
+        "title": "LIBRARIES",
+        "text": "React, Redux, WordPress, Bootstrap"
       },
       {
         "title": "DATABASES",
         "text": "PostgreSQL, MongoDB"
       },
       {
-        "title": "TOOLS",
-        "text": "Git, GitHub, Docker, Lerna"
+        "title": "TOOLKITS",
+        "text": "Gulp, Webpack, Vite, Parcel, ESLint, StyleLint"
       },
       {
-        "title": "ENVIRONMENTS",
-        "text": "Node.JS, SSR"
+        "title": "BACK-END",
+        "text": "Node.JS, API, SSR"
       },
       {
-        "title": "EDITORS",
-        "text": "VS Code, WebStorm, XCode"
+        "title": "CODING",
+        "text": "Microsoft Visual Studio, WebStorm, XCode"
+      },
+      {
+        "title": "NETWORKING",
+        "text": "TCP/IP, FTP, HTTP, Internet"
+      },
+      {
+        "title": "TESTING",
+        "text": "Jest, Selenium WebDriver, Postman, Charles"
       },
       {
         "title": "PLATFORMS",
-        "text": "MacOS, Linux, Windows, iOS, Android"
+        "text": "MacOS, Linux, MS Windows, iOS, Android"
       },
       {
         "title": "VIDEO",
-        "text": "After Effects, Premiere"
+        "text": "Adobe After Effects, Adobe Premiere Pro"
       },
       {
         "title": "DESIGN",
-        "text": "Figma, Photoshop, Illustrator, InDesign"
+        "text": "Figma, Adobe Photoshop, Adobe Illustrator, Adobe InDesign"
       },
       {
         "title": "MANAGEMENT",
-        "text": "JIRA, Slack, Discord, Trello, Notion"
+        "text": "Jira, Slack, MS Office, Notion"
       }
     ]
   },
@@ -64,97 +64,54 @@
     "type": "experience",
     "data": [
       {
-        "title": "Developer, co-founder",
-        "workLinkText": "Applications Danilynx",
-        "workLink": "https://danilynx.app/",
+        "title": "Web Developer, Co-Founder",
+        "workLinkText": "Danilynx",
+        "workLink": "https://danilynx.ca/",
         "city": "Toronto, CA",
-        "dateStart": "04.2019",
-        "dateEnd": "Current",
+        "dateStart": "04.2020",
+        "dateEnd": "Present",
         "text": [
-          "• Creating, maintaining and improving customer and partner facing web applications",
-          "• Working with business stakeholders to move new applications and features from concept to implementation",
-          "• Working with developers and QA to build high quality, compatible and scalable solutions",
-          "• Developing UI components using modern languages and frameworks"
+          " • Write, modify and test website related code • Determine hardware and software requirements to achieve optimal server performance • Conduct tests and perform security and quality controls  • Develop website architecture • Design, develop and implement information systems business solutions  • Operate automatic or other testing equipment to ensure product quality"
         ]
       },
       {
-        "title": "Designer, founder",
-        "workLinkText": "Design Group GnBob",
-        "workLink": "https://gnbob.com/",
-        "city": "Toronto, CA",
-        "dateStart": "10.2010",
-        "dateEnd": "Current",
+        "title": "Web Designer",
+        "workLinkText": "pfc-cska.com",
+        "workLink": "https://pfc-cska.com",
+        "dateStart": "10.2018",
+        "dateEnd": "05.2021",
         "text": [
-          "• Building and leading a team of creative professionals with backgrounds in copywriting, motion graphics, social and web design, video production",
-          "• Leading the creative process from idea to implementation, translating marketing objectives into clear creative strategies",
-          "• Producing innovative solutions for branding, style guides and other deliverables for use in projects, including print, digital, social media, web"
-        ]
-      },
-      {
-        "title": "Front-end Developer",
-        "workLinkText": "Digital Agency One-Touch",
-        "workLink": "https://one-touch.ru/",
-        "city": "Moscow, RF",
-        "dateStart": "09.2021",
-        "dateEnd": "Current",
-        "text": [
-          "• Maintaining and improving customer and partner facing web sites",
-          "• Developing new components and improve existing components to provide enhanced user experience",
-          "• Ability to rapidly convert visual mockups into functional, visually elegant applications",
-          "• Producing clean, efficient, maintainable and testable code based on specification"
-        ]  
-      },
-      {
-        "title": "Senior Designer",
-        "workLinkText": "Professional Football Club CSKA",
-        "workLink": "https://pfc-cska.com/",
-        "city": "Moscow, RF",
-        "dateStart": "01.2018",
-        "dateEnd": "06.2021",
-        "text": [
-          "• Developing the graphic elements and content of communications materials",
-          "• Preparing sketches, layouts and graphic elements",
-          "• Establishing guidelines for illustrators or photographers",
-          "• Co-ordinate all aspects of production for print, audio–visual or electronic materials",
-          "• Work in a multidisciplinary environment",
-          "• Supervising other designers"
+          " • Maintain existing computer programs by making modifications as required • Source, select and organize information for inclusion and design the appearance, layout and flow of the Website • Prepare reports, manuals and other documentation on the status, operation and maintenance of software • Prepare mock-ups and storyboards"
         ]
       },
       {
         "title": "Head of Designers",
-        "workLinkText": "Football Club Krasnodar",
-        "workLink": "https://fckrasnodar.ru/",
-        "city": "Krasnodar, RF",
+        "workLinkText": "fckrasnodar.ru",
+        "workLink": "https://fckrasnodar.ru",
         "dateStart": "11.2015",
         "dateEnd": "01.2018",
         "text": [
-          "• Designing wide variety of materials for external marketing use, including brochures, guides, white papers, presentations, email campaigns, website and social media banners",
-          "• Assist internal departments with graphic design needs"
+          " • Create and optimize content the Website using a variety of graphics, database, animation and other software • Research and evaluate a variety of interactive media software products • Conduct reviews to assess quality assurance practices, software products and information systems"
         ]
       },
       {
-        "title": "Web Developer, Designer",
-        "workLinkText": "TD Arsenaltrading",
+        "title": "Graphic Designer",
+        "workLinkText": "tdarsenal.ru",
         "workLink": "https://tdarsenal.ru/",
-        "city": "Krasnodar, RF",
-        "dateStart": "09.2014",
-        "dateEnd": "11.2015",
+        "dateStart": "11.2014",
+        "dateEnd": "10.2015",
         "text": [
-          "• Maintaining and improving company’s web site",
-          "• Rebranding of company, develop logo and guidelines",
-          "• Developing storyboards for electronic productions such as multimedia, interactive and digital products and television advertising and productions"
+          " • Communicate technical problems, processes and solutions  • Assist in the collection and documentation of user's requirements • Assist in the development of logical and physical specifications"
         ]
       },
       {
-        "title": "Software Developer, Designer",
-        "workLinkText": "Agency “SolomonPRO”",
-        "city": "Perm, RF",
-        "dateStart": "09.2012",
-        "dateEnd": "07.2014",
+        "title": "Web Designer, Founder",
+        "workLinkText": "GnBob",
+        "workLink": "https://danilynx.ca/projects/gnbob",
+        "dateStart": "10.2010",
+        "dateEnd": "Present",
         "text": [
-          "• Creating and maintaining web sites",
-          "• Developing android applications",
-          "• Designing of collateral material, environmental graphics, books and magazines, corporate identity and branding, from concept to completion"
+          " • Lead and co-ordinate multidisciplinary teams to develop Website graphics, content, capacity and interactivity • Design and integrate website related code   • Consult with clients to develop and document Website requirements"
         ]
       }
     ]
@@ -166,26 +123,23 @@
     "data": [
       {
         "title": "Baltic State Technical University",
-        "workLinkText": "VOENMEH",
+        "workLinkText": "D.F. Ustinov",
         "workLink": "https://www.voenmeh.ru",
-        "city": "Saint Petersburg, RF",
+        "city": "",
         "dateStart": "2005",
         "dateEnd": "2011",
         "text": [
-          "• Software Engineer, MS in Information Systems and Technology"
-        ]
-      },
-      {
-        "title": "Additional",
-        "dateStart": "2019",
-        "dateEnd": "Current",
-        "text": [
-          "• Middle Front-End Developer, Yandex",
-          "• JavaScript+React, Petrichenko",
-          "• QA, Portnov Computer School"
+          "Software engineering, Master’s degree in Information Systems and Technology"
         ]
       }
     ]
+  },
+  {
+    "icon": "ri-profile-line",
+    "title": "Profile",
+    "type": "profile",
+    "data": {
+      "text": "4 years of experience in web development. Expert knowledge working with HTML5, CSS3, JS and TS. Experience with React, Redux, Express. Familiar with NPM, Docker, Node.JS, SQL. Technical and documentational skills enable the development of clarify and structable code. Understanding of SSR and Automation testing. Years of experience in computer Design. Great attention to detail and being highly organized. Experienced with the Agile/Scrum development model. Using version control like Git. Effective as both an independent and team worker. Ability to handle multiple tasks under tight deadlines. Strong hybrid working communication skills"
+    }
   }
 ]
-

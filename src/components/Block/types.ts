@@ -4,7 +4,7 @@ export type TBlock = {
   icon?: string
   title: string
   type: string
-  data: TSummary | TProfile | TPercentLines | TSoftSkills | TTechStack | TExperience
+  data?: TSummary | TProfile | TPercentLines | TSoftSkills | TTechStack | TExperience
 }
 
 export type TTechStack = Array<TTechStackField>
@@ -43,7 +43,7 @@ export type TExperienceField = {
   city?: string
   dateStart: string
   dateEnd: string
-  text: TBullets
+  text?: TBullets
 }
 
 export type TBullets = Array<string>
