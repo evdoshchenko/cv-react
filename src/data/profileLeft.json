@@ -2,7 +2,7 @@
   {
     "main": true,
     "image": "/dist/assets/images/avatar.jpg",
-    "title": "Danil Evdoshchenko",
+    "title": "Danil",
     "type": "summary",
     "data": [
       {
@@ -77,27 +77,5 @@
       ],
       "text": "• Passion to build a startup • Excited to learn and develop blockchain technologies. Eager to build a platforms for the next generation of cryptocurrency"
     }
-  },
-  {
-    "icon": "ri-book-line",
-    "title": "Credentials",
-    "type": "experience",
-    "data": [
-      {
-        "title": "Backend for Frontend Developers",
-        "dateStart": "2024",
-        "dateEnd": "Yandex Practicum"
-      },
-      {
-        "title": "Mid-Level Web Developer",
-        "dateStart": "2023",
-        "dateEnd": "Yandex Practicum"
-      },
-      {
-        "title": "Web Developer",
-        "dateStart": "2020",
-        "dateEnd": "Udemy, Petrichenko"
-      }
-    ]
   }
 ]
