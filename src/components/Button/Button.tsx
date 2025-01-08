@@ -1,6 +1,6 @@
 import { FC } from 'react';
 import { Link } from 'react-router-dom';
-import type { 
+import type {
   TButton
 } from './types'
 
@@ -12,7 +12,7 @@ export const Button: FC<TButton> = ({ to, children, modifier, blank }): JSX.Elem
     <Link
       to={to}
       className={`link-button link-button_${modifier}`}
-      target={blank ? '_blank': '_self'}
+      target={blank ? '_blank' : '_self'}
     >
       {children}
     </Link>

@@ -47,7 +47,7 @@ body {
 .app {
   display: flex;
   box-sizing: border-box;
-  height: 100vs;
+  height: 100%;
   width: 100%;
   justify-content: center;
   align-items: center;
@@ -78,9 +78,9 @@ a:active {
 .page {
   display: flex;
   box-sizing: border-box;
-  height: 100vss;
+  height: 100vh;
   width: 100%;
-  justify-content: center;
+  justify-content: space-between;
   align-items: center;
   flex-direction: column;
   padding: 50px;
